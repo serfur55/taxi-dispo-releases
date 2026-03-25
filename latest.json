@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.1.0/TaxiDispo_0.1.0_x64-setup.exe",
-      "signature": "INHALT_DER_.sig_DATEI"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdC9CcC8wdXQvTCtoMnRnNjZ3MVZpcWE3NUtUTXhpeXpDT1lQRkp5cEplWVNOMVlQYStDOG14WUcyZkZlS3cyd01kREdHT0w4aE1BcVVsMU4rZW9IU25BWUZvaUw3b1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDU1OTQwCWZpbGU6VGF4aSBEaXNwb18wLjEuMF94NjQtc2V0dXAuZXhlCi9iV0NvWDBrak42MW51OGVZTzg1M0QwMjZlUmhGeVF6TEgzem5FbVREWXVNTFpLRERCN2szT1hSTG5HRlRpZUtWZUpBL3BwMWFmWTU2SjQvT1RuYkN3PT0K"
     }
   }
 }
