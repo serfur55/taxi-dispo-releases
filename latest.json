@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "notes": "Erste Version",
+  "pub_date": "2026-03-25T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.1.0/TaxiDispo_0.1.0_x64-setup.exe",
+      "signature": "INHALT_DER_.sig_DATEI"
+    }
+  }
+}
+```
+
+Die `.sig` Datei wird beim Build automatisch neben der `.exe` erstellt — deren Inhalt kommt in `"signature"`.
+
+**Für den Build brauchst du noch als Umgebungsvariable** (in der Kommandozeile vor dem Build setzen):
+```
+set TAURI_SIGNING_PRIVATE_KEY=INHALT_DEINER_taxi-dispo.key_DATEI
+set TAURI_SIGNING_PRIVATE_KEY_PASSWORD=DEIN_PASSWORT
+npm run tauri build
