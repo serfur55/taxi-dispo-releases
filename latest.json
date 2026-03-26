@@ -1,20 +1,11 @@
 {
-  "version": "0.2.0",
+  "version": "0.1.0",
   "notes": "Erste Version",
-  "pub_date": "2026-03-25T00:00:00Z",
+  "pub_date": "2026-03-26T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.1.0/TaxiDispo_0.1.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdC9CcC8wdXQvTCtoMnRnNjZ3MVZpcWE3NUtUTXhpeXpDT1lQRkp5cEplWVNOMVlQYStDOG14WUcyZkZlS3cyd01kREdHT0w4aE1BcVVsMU4rZW9IU25BWUZvaUw3b1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDU1OTQwCWZpbGU6VGF4aSBEaXNwb18wLjEuMF94NjQtc2V0dXAuZXhlCi9iV0NvWDBrak42MW51OGVZTzg1M0QwMjZlUmhGeVF6TEgzem5FbVREWXVNTFpLRERCN2szT1hSTG5HRlRpZUtWZUpBL3BwMWFmWTU2SjQvT1RuYkN3PT0K"
+      "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.1.0/Taxi.Dispo_0.1.0_x64-setup.nsis.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdC9CcC8wdXQvTC9wN0F0NHZsMVhYenFwaXBVWTVVYmFOaHc4L1hZWjJXYkNCNisvSWVLc211K0lpdzZkSzd1a0MvUnRoeXZOT0JSQUliZEpZT1h4YnFBZkluZU9jYkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDU1OTQwCWZpbGU6VGF4aSBEaXNwb18wLjEuMF94NjQtc2V0dXAubnNpcy56aXAKUUoxUEhLdVdUTG1CRHBzNnNxMVR6cFUxbk1aMjZSd3lBNnUxWXJDM3IwU2V2dU1ZclBBTlVzcTl1bWRHeGJOWXBvVXFjc0FObXZZMUlLRmw1anZiQlE9PQo="
     }
   }
 }
-```
-
-Die `.sig` Datei wird beim Build automatisch neben der `.exe` erstellt — deren Inhalt kommt in `"signature"`.
-
-**Für den Build brauchst du noch als Umgebungsvariable** (in der Kommandozeile vor dem Build setzen):
-```
-set TAURI_SIGNING_PRIVATE_KEY=INHALT_DEINER_taxi-dispo.key_DATEI
-set TAURI_SIGNING_PRIVATE_KEY_PASSWORD=DEIN_PASSWORT
-npm run tauri build
