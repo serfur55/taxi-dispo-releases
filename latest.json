@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "Live-Sync, Abrechnung Kalenderansicht, Kundenfahrten-Export, Auto-Updater",
+  "version": "0.3.0",
+  "notes": "Live-Sync Fix, Versionsanzeige, Netzlaufwerk-kompatibel",
   "pub_date": "2026-03-27T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.2.0/Taxi.Dispo_0.2.0_x64-setup.nsis.zip",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdC9CcC8wdXQvTDlTRUh2NEhEcFlFTHFSTXlPTGpvaTNxODdpYjlXMCtTMmZwQS9QdDNkL0ZoY01pcDRXaXQ4RHFQQkhaOUNhMzhSeEVNMHM5cHBkajNsWGVNMUF5TWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjAzNDQ3CWZpbGU6VGF4aSBEaXNwb18wLjIuMF94NjQtc2V0dXAubnNpcy56aXAKQ0ZGNW1XZmR3bWdzSWFPbmc0YnQ2UXNNR2NsZmJXZitFclVNNHNEQ1hWaUFYZ3BIejdGbldYRExHM3dYdmZaVEZzN3VBNVNveDVmcWJvR0RidlF3Qmc9PQo="
+      "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.3.0/Taxi.Dispo_0.3.0_x64-setup.nsis.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdC9CcC8wdXQvTHloTWVvNjVDa1d5YitDdzAwYmREQ29ldGpUMmsrdFNNV2MvMWdUVVNnN0R5QWpNR2xyWGJaZHAxdlVqdzZzVkVSRjZKeFplckpLbzB5NjlxczBEK1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjA4MTc2CWZpbGU6VGF4aSBEaXNwb18wLjMuMF94NjQtc2V0dXAubnNpcy56aXAKUkRmK1pibGkxSW9BcFpvcWlUbi83ZlhqTkxLZkZGekVwUzcwRldraWVjRnV6V2JGSTQvMXNub3UwQnBPSGJaNEI0bnFUZlN1MVRHZE91OEdIOEtuQ1E9PQo="
     }
   }
 }
