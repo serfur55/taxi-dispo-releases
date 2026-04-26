@@ -1,11 +1,12 @@
 {
-  "version": "0.3.0",
-  "notes": "Live-Sync Fix, Versionsanzeige, Netzlaufwerk-kompatibel",
-  "pub_date": "2026-03-27T00:00:00Z",
+  "version": "0.4.0",
+  "notes": "Abrechnung Listenansicht, Geburtstage, Kunden-Genehmigungen, Was-ist-neu Dialog",
+  "pub_date": "2026-04-26T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.3.0/Taxi.Dispo_0.3.0_x64-setup.nsis.zip",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdC9CcC8wdXQvTHloTWVvNjVDa1d5YitDdzAwYmREQ29ldGpUMmsrdFNNV2MvMWdUVVNnN0R5QWpNR2xyWGJaZHAxdlVqdzZzVkVSRjZKeFplckpLbzB5NjlxczBEK1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjA4MTc2CWZpbGU6VGF4aSBEaXNwb18wLjMuMF94NjQtc2V0dXAubnNpcy56aXAKUkRmK1pibGkxSW9BcFpvcWlUbi83ZlhqTkxLZkZGekVwUzcwRldraWVjRnV6V2JGSTQvMXNub3UwQnBPSGJaNEI0bnFUZlN1MVRHZE91OEdIOEtuQ1E9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5QTVzNzhZZ2lYSUx1SlVjM1F3YjdxY1RIUGF5N3ZGYjh6NU1Ed3BrRUs2a0FBQkFBQUFBQUFBQUFBQUlBQUFBQWlhck9mbVIxc05tb09jbWt4Y3NoeG1Vazc4VkxYV01WUlBQOUU0MFl1TlFab2ROdlFWa0d1SC96akpxSysrenE3d1YxdEZTVzhuYTBaR1pZS0o3anF1cExicnRvcDVJdjJUU2l4d2RqTkIxQXZBVXgzOW1peGg2ZGwydHlEZWdwU2FEY0pjQmdybUk9Cg==
+",
+      "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.4.0/Taxi.Dispo_0.4.0_x64-setup.nsis.zip"
     }
   }
 }
