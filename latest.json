@@ -4,7 +4,7 @@
   "pub_date": "2026-04-26T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5QTVzNzhZZ2lYSUx1SlVjM1F3YjdxY1RIUGF5N3ZGYjh6NU1Ed3BrRUs2a0FBQkFBQUFBQUFBQUFBQUlBQUFBQWlhck9mbVIxc05tb09jbWt4Y3NoeG1Vazc4VkxYV01WUlBQOUU0MFl1TlFab2ROdlFWa0d1SC96akpxSysrenE3d1YxdEZTVzhuYTBaR1pZS0o3anF1cExicnRvcDVJdjJUU2l4d2RqTkIxQXZBVXgzOW1peGg2ZGwydHlEZWdwU2FEY0pjQmdybUk9Cg==
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdC9CcC8wdXQvTHhVam4vZ004K3RkbFl6UlVRY1lWSkhpcGpPYVl3SzRIYmFqWHNKY1U0ZEpIc3Q3Tm9yeWViYzczMjlrNUM1bnV0U3VEa2tLYVZQNmVHRGR2czl1aEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjM5MDg3CWZpbGU6VGF4aSBEaXNwb18wLjQuMF94NjQtc2V0dXAubnNpcy56aXAKaDArbDEySFZHUlNBWkFhVGNBcXlHMVlQSThSYjg5OWJNWEVnSmZhOGRnNlhWMVk3ZjJkTlJ3QndoYjBJSGlWZWRhbUlyMjQ5Mjgzenp4ZlFoUWZvQlE9PQo===
 ",
       "url": "https://github.com/serfur55/taxi-dispo-releases/releases/download/v0.4.0/Taxi.Dispo_0.4.0_x64-setup.nsis.zip"
     }
